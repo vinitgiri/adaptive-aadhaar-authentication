@@ -18,3 +18,4 @@ Only sample and anonymized data is used for demonstration.
 pip install -r requirements.txt
 python analysis_appa.py
 aadhar is a important document for indian
+now in india there are too many uses of aadhhar
