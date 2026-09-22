@@ -18,4 +18,3 @@ Only sample and anonymized data is used for demonstration.
 pip install -r requirements.txt
 python analysis_appa.py
 
-hello
