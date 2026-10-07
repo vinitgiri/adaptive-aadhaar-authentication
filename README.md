@@ -16,7 +16,6 @@ Only sample and anonymized data is used for demonstration.
 
 ## How to Run
 pip install -r requirements.txt
-
 python analysis_appa.py
 
 
