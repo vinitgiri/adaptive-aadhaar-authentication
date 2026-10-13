@@ -1,4 +1,4 @@
-## Code Overview
+## Code Overview 
 
 This repository contains a Python-based analytical demonstration for the
 Adaptive & Privacy-Preserving Aadhaar Authentication (APPA) framework.
